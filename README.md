@@ -1,2 +1,2 @@
-# bank-management: VIVAULT
-This system is a web-based program that allows you to do everything a bank would allow you to do naturally.
+# ViVault
+This system is a web-based, bank management program that allows you to do everything a bank would allow you to do naturally. Users will create a secure account that unlocks the ability to deposit or withdraw funds from their account and check their balance and transactions. The software will only allow a particular amount of cash flow when the user uses that feature. The program will also allow withdrawals if the balance is sufficient enough. There will be a calculation of interest or overdraft fee for insufficient funds and be added to the user's account balance monthly for interest, and instantly for overdraft charges.
